@@ -13,7 +13,7 @@ export default class ScholarshipLandingPage {
     }
 
     async goto() {
-        await this.page.goto('/');
+        await this.page.goto('https://apply.mykaleidoscope.com/program/sdet-test-scholarship');
     }
 
 }

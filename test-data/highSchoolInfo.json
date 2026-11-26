@@ -1,0 +1,9 @@
+{
+    "address": "123, Test Street, Test City, Test State, 123456",
+    "city": "Test City",
+    "state": "Alas",
+    "zipCode": "123456",
+    "GPA": "8.3",
+    "yearOfGraduation": "2022",
+    "transcriptFilePath": "C:/Users/Vaibhav Jain/Projects/KaleidoscopeTestDemo/test-data/My School Transcript.pdf"
+}

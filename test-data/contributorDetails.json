@@ -1,0 +1,16 @@
+{
+    "contributors": [
+        {
+            "firstName": "Vaibhav",
+            "lastName": "Jain",
+            "email": "vaibhav.jain@example.com",
+            "message": "I am a software developer with a passion for open-source contributions. I have experience in JavaScript, Python, and web development. I enjoy collaborating with other developers and contributing to projects that make a positive impact."
+        },
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com",
+            "message": "I am a software developer with a passion for open-source contributions. I have experience in JavaScript, Python, and web development. I enjoy collaborating with other developers and contributing to projects that make a positive impact."
+        }
+    ]
+}

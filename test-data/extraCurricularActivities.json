@@ -1,0 +1,28 @@
+{
+    "activities": [
+        {
+            "activityName": "Volunteering at local animal shelter",
+            "yearsInvolved": "2",
+            "leadershipRoles": "Volunteer",
+            "descriptionOfInvolvement": "I have been volunteering at the local animal shelter for the past two years, helping to care for and socialize the animals."
+        },
+        {
+            "activityName": "Member of the university debate team",
+            "yearsInvolved": "3",
+            "leadershipRoles": "Team Member",
+            "descriptionOfInvolvement": "I have been an active member of the university debate team for three years, participating in various competitions and helping to organize events."
+        },
+        {
+            "activityName": "Organizing community clean-up events",
+            "yearsInvolved": "1",
+            "leadershipRoles": "Event Organizer",
+            "descriptionOfInvolvement": "I have organized several community clean-up events in my neighborhood, bringing together volunteers to help improve the local environment."
+        },
+        {
+            "activityName": "Participating in hackathons",
+            "yearsInvolved": "2",
+            "leadershipRoles": "Participant",
+            "descriptionOfInvolvement": "I have participated in multiple hackathons over the past two years, collaborating with other developers to create innovative solutions to various challenges."
+        }
+    ]
+}

@@ -2,6 +2,7 @@ import { test as base, expect } from '@playwright/test';
 
 import ScholarshipLandingPage from '../pages/ScholarshipLandingPage';
 import LoginOrSignupPage from '../pages/LoginOrSignupPage';
+import ApplicationStartPage from '../pages/ApplicationStartPage';
 
 
 export const test = base.extend({
@@ -19,6 +20,11 @@ export const test = base.extend({
             await use(loginOrSignupPage);
         },
 
+    applicationStartPage:
+        async ({ page }, use) => {
+            const applicationStartPage = new ApplicationStartPage(page);
+            await use(applicationStartPage);
+        }
 });
 
 export { expect };
